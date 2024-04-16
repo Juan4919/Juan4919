@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Juan4919
 - 👀 I am interested in systems and programming languages
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on anything to improve my abilities
+- 💞️ I’m looking to collaborate on anything to improve my habilities
 - 📫 You can reach me through my Linkedin /juangrandio
 
 <!---
